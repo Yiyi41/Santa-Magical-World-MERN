@@ -20,3 +20,4 @@ La gestion des pages se fait avec react-router-dom
 Bonus : 
 - Dans la page Ajouter un toy, lorsque que le toy est enregistré, on revient sur la page Home
 - Rajouter une icône supprimer sur la page Home pour supprimer un toy 
+- Sur la page Home, rajouter une image pour illustrer chaque toy 

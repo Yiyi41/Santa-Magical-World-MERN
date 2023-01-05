@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.pointer:hover {
+  color: orange;
+}
+
+.toys-container {
+  width: 80%;
+  margin: 0 auto;
+}
